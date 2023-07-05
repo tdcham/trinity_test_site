@@ -143,3 +143,41 @@ Changes not staged for commit:
 ]0;/home/huz2ph/Git/trinity_test_sitebash-4.4$gi[K[Kls
 about.Rmd  index.Rmd  README.md  _site.yml  trinity_test_site.Rproj
 ]0;/home/huz2ph/Git/trinity_test_sitebash-4.4$git add -A
+]0;/home/huz2ph/Git/trinity_test_sitebash-4.4$git ommi[K[K[K[K[K commit -m 'connecting to github online'
+[main 78b1fe4] connecting to github online
+ 20 files changed, 375 insertions(+)
+ create mode 100644 .Rproj.user/2AF5F1D8/console06/DFB0EDF0
+ create mode 100644 .Rproj.user/2AF5F1D8/console06/DFB0EDF0.env
+ create mode 100644 .Rproj.user/2AF5F1D8/console06/INDEX001
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/prop/B8B60E10
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/prop/D04508A3
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/prop/E5D7BEEA
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/prop/INDEX
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/s-e75ff755/575DEE21
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/s-e75ff755/575DEE21-contents
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/s-e75ff755/5B671259
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/s-e75ff755/5B671259-contents
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/s-e75ff755/EBDD940C
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/s-e75ff755/EBDD940C-contents
+ create mode 100644 .Rproj.user/2AF5F1D8/sources/s-e75ff755/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 _site.yml
+ create mode 100644 about.Rmd
+ create mode 100644 index.Rmd
+ create mode 100644 trinity_test_site.Rproj
+]0;/home/huz2ph/Git/trinity_test_sitebash-4.4$git push
+Username for 'https://github.com': tdcham
+Password for 'https://tdcham@github.com': 
+Counting objects: 25, done.
+Delta compression using up to 40 threads.
+Compressing objects:   4% (1/21)   Compressing objects:   9% (2/21)   Compressing objects:  14% (3/21)   Compressing objects:  19% (4/21)   Compressing objects:  23% (5/21)   Compressing objects:  28% (6/21)   Compressing objects:  33% (7/21)   Compressing objects:  38% (8/21)   Compressing objects:  42% (9/21)   Compressing objects:  47% (10/21)   Compressing objects:  52% (11/21)   Compressing objects:  57% (12/21)   Compressing objects:  61% (13/21)   Compressing objects:  66% (14/21)   Compressing objects:  71% (15/21)   Compressing objects:  76% (16/21)   Compressing objects:  80% (17/21)   Compressing objects:  85% (18/21)   Compressing objects:  90% (19/21)   Compressing objects:  95% (20/21)   Compressing objects: 100% (21/21)   Compressing objects: 100% (21/21), done.
+Writing objects:   4% (1/25)   Writing objects:   8% (2/25)   Writing objects:  12% (3/25)   Writing objects:  16% (4/25)   Writing objects:  20% (5/25)   Writing objects:  24% (6/25)   Writing objects:  28% (7/25)   Writing objects:  32% (8/25)   Writing objects:  36% (9/25)   Writing objects:  40% (10/25)   Writing objects:  44% (11/25)   Writing objects:  48% (12/25)   Writing objects:  52% (13/25)   Writing objects:  60% (15/25)   Writing objects:  64% (16/25)   Writing objects:  68% (17/25)   Writing objects:  72% (18/25)   Writing objects:  76% (19/25)   Writing objects:  80% (20/25)   Writing objects:  84% (21/25)   Writing objects:  88% (22/25)   Writing objects:  92% (23/25)   Writing objects:  96% (24/25)   Writing objects: 100% (25/25)   Writing objects: 100% (25/25), 5.36 KiB | 686.00 KiB/s, done.
+Total 25 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
+To https://github.com/tdcham/trinity_test_site.git
+   48630e1..78b1fe4  main -> main
+]0;/home/huz2ph/Git/trinity_test_sitebash-4.4$ls
+about.Rmd  index.Rmd  README.md  _site.yml  trinity_test_site.Rproj
+]0;/home/huz2ph/Git/trinity_test_sitebash-4.4$mkdir doc/[K[Kcs
+]0;/home/huz2ph/Git/trinity_test_sitebash-4.4$git add -A
